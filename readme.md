@@ -22,6 +22,8 @@ http://192.168.99.1/newifi/ifiwen_hss.html
 在路由器插件管理处安装ftp插件
 ftp登录名密码同ssh
 
+> 新增run.sh **使用之前先把里面mentohust的相关参数改掉** 直接`chmod +x run.sh `然后运行`run.sh`
+
 ## 上传文件
 将`usr`,`etc`文件夹上传到路由器根目录覆盖
 
